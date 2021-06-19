@@ -12,9 +12,7 @@ function App() {
     <br />
     <img src="/imageInPublic.jpg" id="second-img"/>
   </div>
-  <video width={320} height={240} controls>
-    <source src="myVideo.mp4" type="video/mp4" />
-  </video>
+  <iframe width="560" height="315" src={'https://www.youtube.com/embed/cpP-fCo8Dn4'} title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
   );
 }
