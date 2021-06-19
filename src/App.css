@@ -1,5 +1,13 @@
-#firstImg{
+#first-img{
   width:20%;
   height: auto;
 }
-/*< !-- img src={imageInSrc.jpg} /  -->*/
+#second-img
+{
+    width:20%;
+    height: auto;
+}
+.app{
+  margin:auto;
+  text-align: center;
+}
